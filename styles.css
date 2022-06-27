@@ -1,0 +1,25 @@
+img {
+    width: 200px;
+    margin: 25px;
+    display:inline-block
+
+
+}
+
+span {
+    text-align:center;
+    display:inline-block; font-weight: bold;
+    vertical-align: middle;
+    font-family: fantasy;
+
+
+}
+
+
+body {
+    background-color:beige
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
